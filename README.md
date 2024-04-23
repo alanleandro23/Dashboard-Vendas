@@ -4,6 +4,9 @@
 Este é um dashboard básico de vendas que apresenta informações sobre o desempenho de vendas de uma empresa. 
 Ele foi criado utilizando o Power BI e fornece insights importantes para a tomada de decisões estratégicas.
 
+![image](https://github.com/alanleandro23/Dashboard-Vendas/assets/77176852/7c4073d8-c677-4167-aa34-1fc07dfbde3e)
+
+
 ## Funcionalidades
 
 - Vendas por Região: Gráfico de barras que mostra o total de vendas por continente.
